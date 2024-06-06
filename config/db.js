@@ -16,6 +16,4 @@ const connectToDatabase = async () => {
     }
 };
 
-};
-
 export default connectToDatabase; // Exporting the function as default
